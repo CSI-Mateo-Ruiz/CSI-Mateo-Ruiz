@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my GitHub👋
+
+## My name is Mateo Ruiz and i am a student and my hobbies are:
+#### none
+
 
 <!--
 **CSI-Mateo-Ruiz/CSI-Mateo-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
